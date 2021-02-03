@@ -15,7 +15,6 @@ I am **Ademílson F. Tonato** working as **FrontEnd Developer @ Mercedes-Benz.io
 
 <!-- Author of NPM Package: **[xyz](https://www.npmjs.com/package/xyz)** -->
 
-----
 
 ## Sponsors
 
