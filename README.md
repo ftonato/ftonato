@@ -14,12 +14,3 @@ I am **Ademílson F. Tonato** working as **FrontEnd Developer @ Mercedes-Benz.io
 </sub>
 
 <!-- Author of NPM Package: **[xyz](https://www.npmjs.com/package/xyz)** -->
-
-
-## Sponsors
-
-> These are the list of companies or projects that bet on my open-source contributions
-
-<a href="https://github.com/sponsors/supabase" title="Supabase" rel="Supabase">
-<img width="250" src="https://gitcdn.xyz/repo/supabase/supabase/master/web/static/supabase-light.svg" />
-</a>
